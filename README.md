@@ -5,11 +5,18 @@ Compact enclosure for the ubiquitous ESP32-CAM with the USB-Serial board and an 
 
 ![Photo Back](/cam-back.jpg)
 
+# Mounting Points
+The holes in the bottom piece are laid out in a 34x21mm rectangle. They are sized for M3-5x5mm threaded inserts.
+
 # Printing Guide
 Use the combined *.stl file for easy printing. Print time is 3 hours with average printing speeds and 100% infill. Support should not be necessary if your cooling is sufficient.
 
+# Additional Materials
+1. Glue (Cyanacrylate aka Super Glue is recommended)
+2. Optional: Threaded inserts M3-5x5mm
+
 # Assembly
-1. Insert the Camera into the front piece, guiding the antenna cable through the small gap on the side of the enclosure.
+1. Insert the ESP32-CAM into the front piece, guiding the antenna cable through the small gap on the side of the enclosure.
 2. Screw the SMA-Connector to the bottom piece and wind the excess antenna cable into a loop.
 3. Test fit the two halves, then glue together with super glue once everything fits. The two halves are self aligning.
 4. Melt the threaded inserts into their holes in the back if you need mounting points. The holes are sized for the cheap M3-5x5mm threaded inserts.
